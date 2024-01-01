@@ -1,7 +1,7 @@
-#common readme
-Module consumers! Frustrated by each module having its own wildly unique README format? Annoyed by modules that omit critical sections like API or Examples? Stuck scrolling through API docs before you even know what the module does?
+# **<< common readme >>**
+**_Module consumers!_** Frustrated by each module having its own wildly unique README format? Annoyed by modules that omit critical sections like **API** or **Examples**? Stuck scrolling through API docs before you _even know what the module does_?
 
-Module authors! Tired of making up your readme format every time you write it? Do you just want consistent readmes pre-populated with your module's name, description and license without worrying about the structure every time?
+***Module authors!*** Tired of making up your readme format every time you write it? Do you just want consistent readmes pre-populated with your module's name, description and license without worrying about the structure every time?
 
 What if there was a common format for the benefit of producers and consumers?
 
@@ -9,10 +9,10 @@ A common readme for node modules.
 
 This can save everybody time by adhering to 4 principles:
 
-No lock in. No special formats or tooling; run common-readme once for pure vanilla markdown.
-No surprises. Pull as many details out of package.json -- like name, description, and license -- as possible. No time wasted on configuration.
-Cognitive funnelling. Start with the most general information at the top (Name, Description, Examples) and if the reader maintains interest, narrow down to specifics (API, Installation). This makes it easy for readers to "short circuit" and continue the hunt for the right module elsewhere without wasting time delving into unnecessary details.
-Consistency. Your brain can scan a document much faster when it can anticipate its structure.
+1. **No lock in.** No special formats or tooling; run <code>common-readme</code> once for pure vanilla markdown.
+1. No surprises. Pull as many details out of package.json -- like name, description, and license -- as possible. No time wasted on configuration.
+1. Cognitive funnelling. Start with the most general information at the top (Name, Description, Examples) and if the reader maintains interest, narrow down to specifics (API, Installation). This makes it easy for readers to "short circuit" and continue the hunt for the right module elsewhere without wasting time delving into unnecessary details.
+1. Consistency. Your brain can scan a document much faster when it can anticipate its structure.
 Common format
 common-readme operates on the principle of cognitive funneling.
 
