@@ -43,6 +43,25 @@
 1. Пункт списка
 
 ## Ссылки
+Ссылка на репозиторий rebrain: [Rebrain **gitlab** link](https://gitlab.rebrainme.com/devops_users_repos/5585/rebrain-devops-task1/-/tree/master)
+
+Ссылка на файл в текущем репозитории: [Repo_file_with_text](/common-readme/file_with_text.md)
+## Картинка
+Картинка заголовка из этого репозитория:
+
+![Main Title Image](/common-readme/main_title.png)
+
+Картинка из описания на github: 
+
+![Screenshot](https://myoctocat.com/assets/images/base-octocat.svg)
+
+Картинка изменяющаяся в зависимости от темного или светлого типа.
+<picture>
+  <source media="(prefers-color-scheme: dark)" src="/common-readme/vecteezy_image-png-de-confettis-pour-le-fond-de-la-fete_9903093.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="salute" src="/common-readme/vecteezy_image-png-de-confettis-pour-le-fond-de-la-fete_9903093.png">
+</picture>
+
 
 
 **_Module consumers!_** Frustrated by each module having its own wildly unique README format? Annoyed by modules that omit critical sections like **API** or **Examples**? Stuck scrolling through API docs before you _even know what the module does_?
